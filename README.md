@@ -1,5 +1,6 @@
 # Bioinformatics Workshop at Sieber group retreat
-> Bioinformatics is nowadays key to really understand biological data.
+> Bioinformatics is nowaday's key to really understand biological data.
+
 
 ## Aims
 This workshop covers the following aspects.
@@ -7,6 +8,7 @@ This workshop covers the following aspects.
 - `R` for bioinformatics.
 - Missing value imputation.
 - Effective data visualization.
+
 
 ## R
 In order to work with the `R` script examples, please download all files
@@ -16,3 +18,7 @@ respective `R` files with RStudio.
 If you still not have installed RStudio, you can download it
 [here](https://www.rstudio.com/products/rstudio/download/). Choose the
 free version and install it to your system.
+
+
+## Slides
+Will be available *after* the workshop.
