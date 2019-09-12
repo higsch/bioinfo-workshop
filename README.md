@@ -24,4 +24,4 @@ free version and install it to your system.
 
 
 ## Slides
-Will be available *after* the workshop.
+The workshop slides.
